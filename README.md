@@ -13,9 +13,9 @@ This project enhances Facebook Marketplace by integrating a third-party delivery
 ## Technologies Used
 - **Front-end:** React, Flutter
 - **Back-end:** Node.js
-- **Database:** MySQL/MongoDB
+- **Database:** MySQL
 - **APIs:** Facebook Marketplace API
-- **Security:** Stripe/PayPal integration
+- **Security:** PayPal integration
 
 ## Installation Instructions
 1. Clone the repository:  https://github.com/malika-cc/Facebook-Marketplace-Delivery.git
