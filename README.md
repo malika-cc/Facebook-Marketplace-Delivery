@@ -18,4 +18,4 @@ This project enhances Facebook Marketplace by integrating a third-party delivery
 - **Security:** Stripe/PayPal integration
 
 ## Installation Instructions
-1. Clone the repository:  
+1. Clone the repository:  https://github.com/malika-cc/Facebook-Marketplace-Delivery.git
